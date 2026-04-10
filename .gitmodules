@@ -1,6 +1,8 @@
 [submodule "front-colficultor"]
 	path = front-colficultor
 	url = https://github.com/Carlos-Carretero/front-colficultor
+	branch = develop
 [submodule "back-colficultor"]
 	path = back-colficultor
 	url = https://github.com/Jrios09/back-colficultor
+	branch = develop
